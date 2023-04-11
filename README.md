@@ -8,12 +8,12 @@ I’m currently working on <br>- ACDM System for Euroscope<br>- Tower Flight Dat
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LeoKle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://readme-stats.clckblog.space/api?username=LeoKle&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeoKle&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoKle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://readme-stats.clckblog.space/api/top-langs/?username=LeoKle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=LeoKle&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.zohan.tech/api?username=LeoKle&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
