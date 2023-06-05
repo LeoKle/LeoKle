@@ -1,6 +1,8 @@
 ## 💫 About Me:
 
-I’m currently working on <br>- ACDM System for Euroscope<br>- Tower Flight Data Processing System + Electronic Flight Strip for Euroscope<br>- Endorsement Checker for Vatsim<br>- ScenarioFile Generator for Vatsim
+I’m currently working on <br>- ACDM System for Euroscope<br>- Tower Flight Data Processing System + Electronic Flight Strip for Euroscope
+
+<!-- <br>- Endorsement Checker for Vatsim<br>- ScenarioFile Generator for Vatsim -->
 
 ## 💻 Tech Stack:
 
