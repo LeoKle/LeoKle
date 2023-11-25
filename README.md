@@ -1,10 +1,18 @@
 ## 💫 About Me:
 
-Current Open-Source-Projects I'm working on:<br>
+Current Open-Source-Projects I'm working on:
+
+- :construction: TRA Booking &ensp;[Repository](https://github.com/vatger/airspace-booking) &ensp; <!--[Website](https://tra.vatsim-germany.org) -->
+
+On-going projects:
 
 - [vACDM](https://github.com/vACDM)
   An Open-Source Euroscope Plugin for VATSIM applying the ACDM procedures using a centralized server.
-- [LoA Viewer](https://github.com/vatger/loa-viewer)
+
+Completed projects :white_check_mark::
+
+- LoA Viewer &ensp;[Repository](https://github.com/vatger/loa-viewer) &ensp; [Website](https://loa.vatsim-germany.org)
+- VATGER Solo Endorsements &ensp;[Repository](https://github.com/vatger/solo-endorsements) &ensp;[Website](https://solo.vatsim-germany.org)
 
 ## 💻 Tech Stack:
 
