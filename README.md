@@ -11,7 +11,7 @@ On-going projects:
 
 Completed projects :white_check_mark::
 
-- LoA Viewer &ensp;[Repository](https://github.com/vatger/loa-viewer) &ensp; [Website](https://loa.vatsim-germany.org)
+- LoA Viewer (Map) &ensp;[Repository](https://github.com/vatger/loa-viewer) &ensp; [Website](https://loa.vatsim-germany.org/map)
 - VATGER Solo Endorsements &ensp;[Repository](https://github.com/vatger/solo-endorsements) &ensp;[Website](https://solo.vatsim-germany.org)
 
 ## 💻 Tech Stack:
